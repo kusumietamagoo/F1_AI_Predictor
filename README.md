@@ -1,0 +1,1 @@
+Race Weekend Insights is a lightweight F1-themed dashboard built with HTML, CSS, and JavaScript. It features podium predictions, AI confidence bars, race insights, and interactive tuner sliders for adjusting parameters. The project is fully modular, responsive, and easily extendable for real data or predictive analytics.
